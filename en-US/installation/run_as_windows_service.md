@@ -6,7 +6,7 @@ name: Run As Windows Service
 
 ### Prerequisites
 
-To run Gogs as a service, you will need one of:
+To run as a service, you will need one of:
 
 1. Use `miniwinsvc` build tags to have builtin Windows service support.
 2. Do not use `miniwinsvc` build tags and use [NSSM](http://nssm.cc/).
